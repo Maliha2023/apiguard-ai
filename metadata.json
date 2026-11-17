@@ -1,0 +1,6 @@
+{
+  "name": "BugPulse AI — Automated API Monitor & AI Bug Tracker",
+  "description": "Dark-mode automated API health monitor, Gemini-powered bug report generator, and local bug tracker dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
